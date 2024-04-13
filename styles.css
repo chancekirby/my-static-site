@@ -1,0 +1,28 @@
+.answerButton {
+    width: 250px;
+    height: 250px;
+}
+
+.question {
+    display: flex;
+    justify-content: center;
+}
+
+.answers {
+    display: flex;
+    justify-content: center;
+}
+
+.wrong {
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+    color: darkred;
+}
+
+.right {
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+    color: green;
+}
